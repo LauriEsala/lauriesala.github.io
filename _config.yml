@@ -1,3 +1,8 @@
+# The basics
+theme: jekyll-theme-minimal
+title: Lauri Esala's personal website
+description: TBA
+
 # Where things are
 source              : .
 destination         : ./_site
