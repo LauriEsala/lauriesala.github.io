@@ -30,6 +30,7 @@ github_username:  LauriEsala
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 #theme: jekyll-theme-minimal
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
