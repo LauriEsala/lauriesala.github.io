@@ -1,13 +1,13 @@
 # Lauri Esala
 
 <!--- Column 1: Text/info --->
-I am a PhD candidate in Economics at <a href="https://www.upf.edu">Universitat Pompeu Fabra</a> and the <a href="https://bse.eu/">Barcelona School of Economics<a>
+I am a PhD candidate in Economics at [Universitat Pompeu Fabra](https://www.upf.edu) and the [Barcelona School of Economics](https://bse.eu/)
 
 My research interests lie in **macroeconomics**, specifically **production networks** and **computational methods**.
 
 I am on the Job Market during the 2023-2024 academic year.
 
-Click <a href="https://www.dropbox.com/scl/fi/ertttligjr3idp1sogag3/Esala_JM_CV.pdf?rlkey=p9llduj67roucs7giorqub0y2&raw=1">here</a> to find my CV.
+Click [here](https://www.dropbox.com/scl/fi/ertttligjr3idp1sogag3/Esala_JM_CV.pdf?rlkey=p9llduj67roucs7giorqub0y2&raw=1) to find my CV.
 
 
 <!--- Column 2: Photo --->
@@ -18,12 +18,12 @@ Click <a href="https://www.dropbox.com/scl/fi/ertttligjr3idp1sogag3/Esala_JM_CV.
  
 
 ### Contact information:
-* **Email**: <a href="mailto:lauri.esala@upf.edu">lauri.esala@upf.edu</a>
-* <p> <strong>Mailing address:</strong> <br> 
-Department of Economics and Business, <br>
-Universitat Pompeu Fabra <br>
-Carrer de Ramon Trias Fargas, 25-27, <br> 
-08005 Barcelona, Spain <br></p>
+* **Email**: [lauri.esala@upf.edu](mailto:lauri.esala@upf.edu)
+* **Mailing address:**   
+Department of Economics and Business,   
+Universitat Pompeu Fabra    
+Carrer de Ramon Trias Fargas, 25-27,    
+08005 Barcelona, Spain      
 
 ---
 
