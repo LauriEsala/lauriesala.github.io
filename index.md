@@ -1,5 +1,3 @@
-# Lauri Esala
-
 <!--- Column 1: Text/info --->
 I am a PhD candidate in Economics at [Universitat Pompeu Fabra](https://www.upf.edu) and the [Barcelona School of Economics](https://bse.eu)
 
