@@ -21,7 +21,7 @@
 title: Lauri Esala
 email: lauri.esala@upf.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student
+  ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lauriesala.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EsalaLauri
