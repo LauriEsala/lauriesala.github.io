@@ -3,7 +3,7 @@ Welcome! I am a Lecturer in Economics at the [University of Edinburgh](https://w
 
 My research interests lie in **macroeconomics**, specifically **production networks** and **computational methods**.
 
-I completed my PhD at the [Universitat Pompeu Fabra](https://www.upf.edu). Click [here](https://www.dropbox.com/scl/fi/ertttligjr3idp1sogag3/Esala_JM_CV.pdf?rlkey=p9llduj67roucs7giorqub0y2&raw=1) to find my CV.
+I completed my PhD at the [Universitat Pompeu Fabra](https://www.upf.edu). Click [here](https://www.dropbox.com/scl/fi/ukpfkm5khahvjf6lb2mic/Esala_CV.pdf?rlkey=7ihnljbqxthlp1xlysyi7h4ng&raw=1) to find my CV.
 
 
 <!--- Column 2: Photo --->
@@ -16,9 +16,9 @@ I completed my PhD at the [Universitat Pompeu Fabra](https://www.upf.edu). Click
 ### Contact information:
 * **Email**: [lauri.esala@ed.ac.uk](mailto:lauri.esala@ed.ac.uk)
 * **Mailing address:**   
-School of Economics,
-University of Edinburgh,
-31 Buccleuch Pl,
+School of Economics,  
+University of Edinburgh,  
+31 Buccleuch Pl,  
 Edinburgh EH8 9JS
 
 ---
