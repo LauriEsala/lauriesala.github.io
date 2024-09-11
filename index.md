@@ -1,11 +1,9 @@
 <!--- Column 1: Text/info --->
-I am a PhD candidate in Economics at [Universitat Pompeu Fabra](https://www.upf.edu) and the [Barcelona School of Economics](https://bse.eu)
+Welcome! I am a Lecturer in Economics at the [University of Edinburgh](https://www.ed.ac.uk/economics).
 
 My research interests lie in **macroeconomics**, specifically **production networks** and **computational methods**.
 
-I am on the Job Market during the 2023-2024 academic year.
-
-Click [here](https://www.dropbox.com/scl/fi/ertttligjr3idp1sogag3/Esala_JM_CV.pdf?rlkey=p9llduj67roucs7giorqub0y2&raw=1) to find my CV.
+I completed my PhD at the [Universitat Pompeu Fabra](https://www.upf.edu). Click [here](https://www.dropbox.com/scl/fi/ertttligjr3idp1sogag3/Esala_JM_CV.pdf?rlkey=p9llduj67roucs7giorqub0y2&raw=1) to find my CV.
 
 
 <!--- Column 2: Photo --->
@@ -16,12 +14,12 @@ Click [here](https://www.dropbox.com/scl/fi/ertttligjr3idp1sogag3/Esala_JM_CV.pd
  
 
 ### Contact information:
-* **Email**: [lauri.esala@upf.edu](mailto:lauri.esala@upf.edu)
+* **Email**: [lauri.esala@ed.ac.uk](mailto:lauri.esala@ed.ac.uk)
 * **Mailing address:**   
-Department of Economics and Business,   
-Universitat Pompeu Fabra    
-Carrer de Ramon Trias Fargas, 25-27,    
-08005 Barcelona, Spain      
+School of Economics,
+University of Edinburgh,
+31 Buccleuch Pl,
+Edinburgh EH8 9JS
 
 ---
 
@@ -33,5 +31,3 @@ This paper develops a dynamic theory of endogenous supply chain formation that s
 
 
 **Low Interest Rates, Weak Banks and Zombie Firms** (with Andrea Sy)
-
-**Lumpy Labor Adjustment and Aggregate Dynamics**
